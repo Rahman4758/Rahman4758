@@ -1,4 +1,3 @@
-![Header](https://raw.githubusercontent.com/your-username/your-repo/main/header-image.png)
 
 # Hi there, I'm [Your Name] 👋
 
@@ -48,14 +47,14 @@ I am a **MERN Stack Developer** passionate about building scalable web applicati
 ### 🛍 QuickCart (E-Commerce Platform)
 - **Stack:** MERN, Redux, Razorpay, TailwindCSS
 - **Features:** Secure authentication, product browsing, cart management, payment integration
-- **Live Demo:** [QuickCart](https://quickcart.example.com)
-- **GitHub:** [Repo](https://github.com/your-username/quickcart)
+- **Live Demo:** [QuickCart](https://quickcart-1-6ysz.onrender.com)
+- **GitHub:** [Repo](https://github.com/Rahman4758/QuickCart)
 
 ### 📄 Job Portal App
 - **Stack:** MERN, Cloudinary, JWT Auth
 - **Features:** User authentication, job applications, employer dashboard
-- **Live Demo:** [JobPortal](https://jobportal.example.com)
-- **GitHub:** [Repo](https://github.com/your-username/jobportal)
+- **Live Demo:** [JobPortal](https://jobportal-142p.onrender.com)
+- **GitHub:** [Repo](https://github.com/Rahman4758/JobPortal)
 
 ---
 
@@ -68,8 +67,7 @@ I am a **MERN Stack Developer** passionate about building scalable web applicati
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rahman-cse/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 ⭐️ Feel free to fork and star my repositories!
