@@ -1,5 +1,5 @@
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mohammad Rahman 👋
 
 I am a **MERN Stack Developer** passionate about building scalable web applications and dynamic user experiences. I love coding, solving problems, and continuously learning new technologies.
 
@@ -60,8 +60,8 @@ I am a **MERN Stack Developer** passionate about building scalable web applicati
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahman4758&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahman4758&layout=compact&theme=tokyonight)
 
 ---
 
