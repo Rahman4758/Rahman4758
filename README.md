@@ -53,7 +53,7 @@ I am a **MERN Stack Developer** passionate about building scalable web applicati
 ### 🧠 MindEase (Mental Wellness Platform)
 - **Stack:** MERN, JWT Auth, TailwindCSS, ShadCN, Groq AI (LLaMA), Recharts
 - **Features:** Journaling, mood tracking, AI-powered advice & affirmations, analytics dashboard
-- **Live Demo:** [MindEase](https://mind-ease-drab.vercel.app.com/)
+- **Live Demo:** [MindEase](https://mind-ease-drab.vercel.app/)
 - **GitHub:** [Repo](https://github.com/Rahman4758/MindEase)
   
 ### 📄 Job Portal App
