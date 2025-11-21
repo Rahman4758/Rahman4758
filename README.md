@@ -50,6 +50,12 @@ I am a **MERN Stack Developer** passionate about building scalable web applicati
 - **Live Demo:** [QuickCart](https://quickcart-1-6ysz.onrender.com)
 - **GitHub:** [Repo](https://github.com/Rahman4758/QuickCart)
 
+### 🧠 MindEase (Mental Wellness Platform)
+- **Stack:** MERN, JWT Auth, TailwindCSS, ShadCN, Groq AI (LLaMA), Recharts
+- **Features:** Journaling, mood tracking, AI-powered advice & affirmations, analytics dashboard
+- **Live Demo:** [MindEase](https://mind-ease-drab.vercel.app.com/)
+- **GitHub:** [Repo](https://github.com/Rahman4758/MindEase)
+  
 ### 📄 Job Portal App
 - **Stack:** MERN, Cloudinary, JWT Auth
 - **Features:** User authentication, job applications, employer dashboard
